@@ -1,0 +1,8 @@
+# ninja log v6
+28	152	7639832961175467	CMakeFiles/BlockLib.dir/scr/core/Block.cpp.obj	1363c2186f1e5c21
+3	337	7639889105510128	CMakeFiles/motacpp.dir/scr/main.cpp.obj	238b0e2fc65b09f7
+412	492	7639958528709200	motacpp.exe	7941de33be97adc0
+1	309	7640635903949351	build.ninja	db41fad10ad7b0b7
+4	384	7639958249499058	CMakeFiles/motacpp.dir/scr/stage/Floor1.cpp.obj	8d2fb795cf5cc014
+32	373	7639891449447150	CMakeFiles/motacpp.dir/scr/core/Block.cpp.obj	6e6d6f478816caad
+4	411	7639958524623926	CMakeFiles/motacpp.dir/scr/stage/Map.cpp.obj	6a2b516802514709
